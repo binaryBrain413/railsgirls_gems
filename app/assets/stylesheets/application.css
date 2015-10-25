@@ -25,3 +25,4 @@ table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
 
 img {width: 300px; height: 300px;}
+img.icon_thumbnail { width: 30px; height: 30px;}
